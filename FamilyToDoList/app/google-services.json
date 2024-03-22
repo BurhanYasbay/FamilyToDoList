@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665211316625",
+    "project_id": "familytodolist-28bc3",
+    "storage_bucket": "familytodolist-28bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665211316625:android:e7e87b4d3b561daad65230",
+        "android_client_info": {
+          "package_name": "com.example.familytodolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcmsXRq7Pq43kB0lzUznh6cj6NArt7Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
